@@ -23,6 +23,7 @@ Developer Experience:
 - [x] I look forward to technology that improve mixing / recording process (Machine Learning on distibution of audio signals in a well mixed song)
 
 Screen Capture of the git command used:
-<img src='./screen cap1.png' alt='capture 1'/>
 
-<img src='./screen cap2.png' alt='capture 2'/>
+![capture1] (./screen_cap1.png)
+
+![capture2] (./screen_cap2.png)
