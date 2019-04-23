@@ -24,6 +24,6 @@ Developer Experience:
 
 Screen Capture of the git command used:
 
-![capture1](./screen_cap1.png)
+![capture1](screen_cap1.png)
 
-![capture2](./screen_cap2.png)
+![capture2](screen_cap2.png)
